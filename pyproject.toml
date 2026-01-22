@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Jerome Scott", email = "codecaine@gmail.com"}
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -35,5 +35,5 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/easy-redis"
-Repository = "https://github.com/yourusername/easy-redis"
+Homepage = "https://github.com/codecaine-zz/python_redis_rad_app_wrapper"
+Repository = "https://github.com/codecaine-zz/python_redis_rad_app_wrapper"
